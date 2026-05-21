@@ -1,0 +1,37 @@
+---
+
+### 💻 A Little Bit About Me and My Interests
+
+```yaml
+name: "Goutham B Bhandari"
+located_in: "Bengaluru, Karnataka"
+current_job: "Data Engineer"
+education:
+  - "Bachelor of Engineering in Electronics and Communication Engineering (RVCE)"
+company: "MiQ"
+
+fields_of_interests:
+  - "Data Engineering"
+  - "Data Science"
+  - "Machine Learning"
+  - "Artificial Intelligence"
+  - "DevOps"
+
+technical_background:
+  - "Data Engineering (PySpark, SQL, Python)"
+  - "Cloud Data Tools (Databricks, Azure)"
+  - "Time-Series Forecasting & Neural Networks (LSTM, RNN, GRU)"
+  - "Interactive Analytics Dashboards (Streamlit)"
+
+currently_learning: 
+  - "DevOps practices"
+  - "Medallion architecture projects in Databricks"
+
+2026_Goals: 
+  - "Maintain daily 'brain rewrite' habits (meditation, reading, technical study)"
+  - "Participate and excel in global technical hackathons"
+
+hobbies: 
+  - "Playing Freefire"
+  - "Traveling"
+  - "Hackathons"
