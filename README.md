@@ -9,5 +9,4 @@
 * 💬 Ask me about **Data Engineering, PySpark, SQL, building Streamlit dashboards, and preparing for GATE Data Science & AI.**
 * 📫 How to reach me: **[LinkedIn - Goutham B Bhandari](linkedin.com/in/goutham-b-bhandari-49821a1ab)** * ❤️ I love **watching Indian professional cricket (especially when India wins!), traveling, and building interactive analytics dashboards.**
 * ⚡ Fun fact: **I published a deep learning research paper on traffic capacity prediction, co-authored two book chapters, and won a team "Q2 Impact Award" all in the same year (2025)!**
-![About Me Code](About Me Code.png)
 ![Snake](https://raw.githubusercontent.com/GOUTHAMBB/GOUTHAMBB/output/github-contribution-grid-snake.svg)
